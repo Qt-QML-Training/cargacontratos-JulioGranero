@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>Boton.qml</file>
-        <file>CampoInput.qml</file>
-    </qresource>
-</RCC>
